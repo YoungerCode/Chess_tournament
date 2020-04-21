@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
+import tk
 from Tkinter import *
 import ttk
 from Tkinter import Tk
