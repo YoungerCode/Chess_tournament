@@ -1,10 +1,10 @@
-import tk
-from Tkinter import *
-import ttk
-from Tkinter import Tk
+#import tk
+from tkinter import *
+from tkinter import ttk
+from tkinter import Tk
 import random
 from datetime import datetime
-import Tk.MessageBox
+#import Tk.MessageBox
 
 
 # In[ ]:
